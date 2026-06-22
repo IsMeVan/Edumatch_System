@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@100;200;300;400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Inter', 'Kantumruy Pro', sans-serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  transition: background 0.3s ease, color 0.3s ease;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Light mode — clean white-blue */
+body {
+  background: linear-gradient(135deg, #f8fafc 0%, #eff6ff 100%);
+  color: #0f172a;
+}
+
+/* Dark mode — deep navy with subtle purple */
+.dark body,
+html.dark body {
+  background: #0b1020;
+  color: #e2e8f0;
+}
+/* Hide scrollbar but allow scrolling */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;             /* Chrome, Safari, Opera */
+}

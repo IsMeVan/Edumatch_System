@@ -1,0 +1,4760 @@
+[
+    {
+        "school": "សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 1387,
+                "total_quota_breakdown": {
+                    "general": 911,
+                    "female": 181,
+                    "poor": 238,
+                    "remote_areas": 57
+                },
+                "majors": [
+                    {
+                        "major_name": "គណិតវិទ្យា",
+                        "total_quota": 100,
+                        "quota_breakdown": {
+                            "general": 60,
+                            "female": 15,
+                            "poor": 20,
+                            "remote_areas": 5
+                        }
+                    },
+                    {
+                        "major_name": "រូបវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 8,
+                            "poor": 10,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ព័ត៌មានវិទ្យា",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 21,
+                            "female": 5,
+                            "poor": 7,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "គីមីវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 8,
+                            "poor": 10,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ជីវវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 8,
+                            "poor": 10,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "បរិស្ថាន",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 5,
+                            "poor": 6,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 100,
+                        "quota_breakdown": {
+                            "general": 60,
+                            "female": 15,
+                            "poor": 20,
+                            "remote_areas": 5
+                        }
+                    },
+                    {
+                        "major_name": "ប្រវត្តិវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 8,
+                            "poor": 10,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ទស្សនវិជ្ជា",
+                        "total_quota": 60,
+                        "quota_breakdown": {
+                            "general": 36,
+                            "female": 9,
+                            "poor": 12,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមវិទ្យា",
+                        "total_quota": 60,
+                        "quota_breakdown": {
+                            "general": 36,
+                            "female": 9,
+                            "poor": 12,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមកិច្ចវិទ្យា",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាវិទ្យា",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 5,
+                            "poor": 6,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភូមិវិទ្យានិងរៀបចំដែនដី",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 8,
+                            "poor": 10,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ទេសចរណ៍",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ចិត្តវិទ្យា",
+                        "total_quota": 60,
+                        "quota_breakdown": {
+                            "general": 36,
+                            "female": 9,
+                            "poor": 12,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងពាណិជ្ជកម្មអន្តរជាតិ",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "អភិវឌ្ឍន៍សេដ្ឋកិច្ច",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងនិងអភិវឌ្ឍន៍ធនធានធម្មជាតិ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អភិវឌ្ឍន៍សហគមន៍",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 21,
+                            "female": 5,
+                            "poor": 7,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "នគរូបនីយកម្មនិងអភិវឌ្ឍន៍ក្រុងដោយចីរភាព",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មទូរគមនាគមន៍និងអេឡិចត្រូនិច",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មបច្ចេកវិទ្យាព័ត៌មាន",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មជីវសាស្ត្រ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អប់រំពេញមួយជីវិត",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "សិក្សាអប់រំ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងនិងអភិវឌ្ឍន៍ឧត្តមសិក្សា",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាជប៉ុន",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 21,
+                            "female": 5,
+                            "poor": 7,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាកូរ៉េ",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 21,
+                            "female": 5,
+                            "poor": 7,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាថៃ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 80,
+                        "quota_breakdown": {
+                            "general": 80,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ទំនាក់ទំនងអន្តរជាតិ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ចអន្តរជាតិ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រនយោបាយនិងរដ្ឋបាលសាធារណៈ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ប្រព័ន្ធផ្សព្វផ្សាយនិងសារគមនាគមន៍",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 3,
+                            "remote_areas": 1
+                        },
+                        "specific_requirements": [
+                            "ត្រូវមានសញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ",
+                            "ត្រូវមានអាយុច្រើនបំផុត ២២ឆ្នាំ គិតត្រឹមសប្តាហ៍ទី៣ ខែកញ្ញា ឆ្នាំ២០២៦",
+                            "វិញ្ញាសាសរសេរ (សំណួរពហុជ្រើសរើស) ភាសាអង់គ្លេស ៩០នាទី និងវប្បធម៌ទូទៅ ៦០នាទី"
+                        ]
+                    },
+                    {
+                        "major_name": "ភាសាចិន",
+                        "total_quota": 37,
+                        "quota_breakdown": {
+                            "general": 37,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        },
+                        "specific_requirements": [
+                            "វិញ្ញាសាសរសេរ ភាសាចិន កម្រិត Pre-Intermediate ៩០នាទី"
+                        ]
+                    },
+                    {
+                        "major_name": "ភាសាបារាំង",
+                        "total_quota": 65,
+                        "quota_breakdown": {
+                            "general": 65,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        },
+                        "specific_requirements": [
+                            "សិស្សថ្នាក់ពីរភាសា (ប៊ីឡាំង) សិក្សាថ្នាក់ទី១២ ក្នុងឆ្នាំសិក្សា ២០២៥-២០២៦ និងបានដាក់ពាក្យស្នើសុំអាហារូបករណ៍ មុខជំនាញភាសាបារាំងនេះ ហើយនឹងបានប្រឡងជាប់សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ ត្រូវជាប់ដោយស្វ័យប្រវត្តិ"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យភូមិន្ទកសិកម្ម",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 530,
+                "total_quota_breakdown": {
+                    "general": 318,
+                    "female": 79,
+                    "poor": 106,
+                    "remote_areas": 27
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកសិកម្ម",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រសត្វ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "វេជ្ជសាស្ត្រសត្វ",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ព្រៃឈើ និងការប្រែប្រួលអាកាសធាតុ",
+                        "total_quota": 60,
+                        "quota_breakdown": {
+                            "general": 36,
+                            "female": 9,
+                            "poor": 12,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្រ្តជលផល",
+                        "total_quota": 60,
+                        "quota_breakdown": {
+                            "general": 36,
+                            "female": 9,
+                            "poor": 12,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អាហានិងអាហារូបត្ថម្ភ",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "អប់រំ និងផ្សព្វផ្សាយកសិកម្ម",
+                        "total_quota": 60,
+                        "quota_breakdown": {
+                            "general": 36,
+                            "female": 9,
+                            "poor": 12,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ចនិងគ្រប់គ្រង",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មប្រព័ន្ធជីវកសិកម្ម",
+                        "total_quota": 60,
+                        "quota_breakdown": {
+                            "general": 36,
+                            "female": 9,
+                            "poor": 12,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យសាស្រ្តអាហារនិងបច្ចេកវិទ្យាក្រោយប្រមូលផល",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "រៀបចំដែនដីនិងរដ្ឋបាលដីធ្លី",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យភូមិន្ទនីតិសាស្ត្រ និងវិទ្យាសាស្ត្រសេដ្ឋកិច្ច",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 330,
+                "total_quota_breakdown": {
+                    "general": 198,
+                    "female": 48,
+                    "poor": 65,
+                    "remote_areas": 19
+                },
+                "majors": [
+                    {
+                        "major_name": "នីតិសាស្ត្រ",
+                        "total_quota": 55,
+                        "quota_breakdown": {
+                            "general": 33,
+                            "female": 8,
+                            "poor": 11,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលសាធារណៈ",
+                        "total_quota": 55,
+                        "quota_breakdown": {
+                            "general": 33,
+                            "female": 8,
+                            "poor": 11,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "គណនេយ្យ",
+                        "total_quota": 55,
+                        "quota_breakdown": {
+                            "general": 33,
+                            "female": 8,
+                            "poor": 11,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "ធនាគារនិងហិរញ្ញវត្ថុ",
+                        "total_quota": 55,
+                        "quota_breakdown": {
+                            "general": 33,
+                            "female": 8,
+                            "poor": 11,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ចអភិវឌ្ឍន៍",
+                        "total_quota": 28,
+                        "quota_breakdown": {
+                            "general": 17,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងធុរកិច្ច",
+                        "total_quota": 27,
+                        "quota_breakdown": {
+                            "general": 16,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ចព័ត៌មានវិទ្យា",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ព័ត៌មានវិទ្យា",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យជាតិគ្រប់គ្រង",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 330,
+                "total_quota_breakdown": {
+                    "general": 198,
+                    "female": 33,
+                    "poor": 66,
+                    "remote_areas": 33
+                },
+                "majors": [
+                    {
+                        "major_name": "គ្រប់គ្រង",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 2,
+                            "poor": 4,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ម៉ាឃីតធីង",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 2,
+                            "poor": 4,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "គណនេយ្យ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 2,
+                            "poor": 4,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ហិរញ្ញវត្ថុនិងធនាគារ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 2,
+                            "poor": 4,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ទេសចរណ៍",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 5,
+                            "poor": 10,
+                            "remote_areas": 5
+                        }
+                    },
+                    {
+                        "major_name": "នីតិសាស្ត្រ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 5,
+                            "poor": 10,
+                            "remote_areas": 5
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 5,
+                            "poor": 10,
+                            "remote_areas": 5
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ចពាណិជ្ជសាស្ត្រ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 5,
+                            "poor": 10,
+                            "remote_areas": 5
+                        }
+                    },
+                    {
+                        "major_name": "ព័ត៌មានវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 5,
+                            "poor": 10,
+                            "remote_areas": 5
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យជាតិ ជា ស៊ីម កំចាយមារ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 280,
+                "total_quota_breakdown": {
+                    "general": 168,
+                    "female": 41,
+                    "poor": 56,
+                    "remote_areas": 15
+                },
+                "majors": [
+                    {
+                        "major_name": "ទីផ្សារ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គណនេយ្យ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងធនធានមនុស្ស",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ធនាគារនិងហិរញ្ញវត្ថុ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ក្សេត្រសាស្ត្រ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ផលិតកម្មសត្វនិងបសុព្យាបាល",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "នីតិសាស្ត្រ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលសាធារណៈ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេសសម្រាប់ការអប់រំ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គណិតវិទ្យា",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យជាតិ ជា ស៊ីម កំចាយមារ (ខេត្តកំពង់ចាម)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 45,
+                "total_quota_breakdown": {
+                    "general": 27,
+                    "female": 6,
+                    "poor": 9,
+                    "remote_areas": 3
+                },
+                "majors": [
+                    {
+                        "major_name": "ទីផ្សារ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 3,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេសសម្រាប់ការអប់រំ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 3,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "នីតិសាស្ត្រ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 3,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "តម្រូវឱ្យប្រឡងចូល៖ គណិតវិទ្យា ២ម៉ោង, រូបវិទ្យា-គីមីវិទ្យា ២ម៉ោង និងតក្កវិទ្យា ១ម៉ោង"
+                ],
+                "total_scholarships": 80,
+                "total_quota_breakdown": {
+                    "general": 48,
+                    "female": 12,
+                    "poor": 16,
+                    "remote_areas": 4
+                },
+                "majors": [
+                    {
+                        "major_name": "វិស្វករ",
+                        "total_quota": 80,
+                        "quota_breakdown": {
+                            "general": 48,
+                            "female": 12,
+                            "poor": 16,
+                            "remote_areas": 4
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា ខេត្តត្បូងឃ្មុំ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "តម្រូវឱ្យប្រឡងចូល៖ គណិតវិទ្យា ២ម៉ោង, រូបវិទ្យា-គីមីវិទ្យា ២ម៉ោង និងតក្កវិទ្យា ១ម៉ោង"
+                ],
+                "total_scholarships": 120,
+                "total_quota_breakdown": {
+                    "general": 72,
+                    "female": 18,
+                    "poor": 24,
+                    "remote_areas": 6
+                },
+                "majors": [
+                    {
+                        "major_name": "វិស្វករ",
+                        "total_quota": 120,
+                        "quota_breakdown": {
+                            "general": 72,
+                            "female": 18,
+                            "poor": 24,
+                            "remote_areas": 6
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា ខេត្តកែប",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "តម្រូវឱ្យប្រឡងចូល៖ គណិតវិទ្យា ២ម៉ោង, រូបវិទ្យា-គីមីវិទ្យា ២ម៉ោង និងតក្កវិទ្យា ១ម៉ោង"
+                ],
+                "total_scholarships": 120,
+                "total_quota_breakdown": {
+                    "general": 72,
+                    "female": 18,
+                    "poor": 24,
+                    "remote_areas": 6
+                },
+                "majors": [
+                    {
+                        "major_name": "វិស្វករ",
+                        "total_quota": 120,
+                        "quota_breakdown": {
+                            "general": 72,
+                            "female": 18,
+                            "poor": 24,
+                            "remote_areas": 6
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យស្វាយរៀង",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 360,
+                "total_quota_breakdown": {
+                    "general": 216,
+                    "female": 49,
+                    "poor": 72,
+                    "remote_areas": 23
+                },
+                "majors": [
+                    {
+                        "major_name": "គណនេយ្យ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រង",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ទីផ្សារ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ធនាគារនិងហិរញ្ញវត្ថុ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អភិវឌ្ឍន៍ជនបទ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ក្សេត្រសាស្ត្រ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រនិងវេជ្ជសាស្ត្រសត្វ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "គណិតវិទ្យា",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មមេកានិច",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មអេឡិត្រូនិចនិងស្វ័យប្រវត្តិកម្ម",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលសាធារណៈ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យជាតិបាត់ដំបង",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 228,
+                "total_quota_breakdown": {
+                    "general": 132,
+                    "female": 39,
+                    "poor": 34,
+                    "remote_areas": 23
+                },
+                "majors": [
+                    {
+                        "major_name": "គ្រប់គ្រងអាជីវកម្ម",
+                        "total_quota": 10,
+                        "quota_breakdown": {
+                            "general": 4,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ទីផ្សារ",
+                        "total_quota": 10,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អភិវឌ្ឍន៍សហគមន៍និងតំបន់",
+                        "total_quota": 17,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 3,
+                            "poor": 2,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ភូមិសាស្ត្រសេដ្ឋកិច្ច",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ក្សេត្រសាស្ត្រ",
+                        "total_quota": 10,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "សាកវប្បកម្ម",
+                        "total_quota": 10,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រសត្វ",
+                        "total_quota": 10,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "កែច្នៃអាហារ",
+                        "total_quota": 7,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 17,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 3,
+                            "poor": 3,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 7,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រកូរ៉េ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 3,
+                            "poor": 3,
+                            "remote_areas": 4
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្របារាំង",
+                        "total_quota": 10,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាចិន",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 3,
+                            "poor": 3,
+                            "remote_areas": 4
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលសាធារណៈ និងអភិបាលកិច្ច",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "នីតិសាស្ត្រ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "កសិកូឡូស៊ី",
+                        "total_quota": 10,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ច និងពន្ធដារ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ពាណិជ្ជកម្មអន្តរជាតិ និងការគ្រប់គ្រងខ្សែសង្វាក់ផ្គត់ផ្គង់",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 3,
+                            "female": 2,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "បច្ចេកវិទ្យាជីវកម្ម",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 3,
+                            "female": 2,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យជាតិមានជ័យ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 325,
+                "total_quota_breakdown": {
+                    "general": 195,
+                    "female": 52,
+                    "poor": 65,
+                    "remote_areas": 13
+                },
+                "majors": [
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាកូរ៉េ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាចិន",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ក្សេត្រសាស្ត្រ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "កសិឧស្សាហកម្ម",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រឿងយន្តកសិកម្ម",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងបណ្ដាញកុំព្យូទ័រ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អភិវឌ្ឍន៍កម្មវិធីកុំព្យូទ័រនិងទូរស័ព្ទដៃ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គណនេយ្យ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ធនាគារនិងហិរញ្ញវត្ថុ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រង",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលសាធារណៈ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យជាតិមានជ័យ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 325,
+                "total_quota_breakdown": {
+                    "general": 195,
+                    "female": 52,
+                    "poor": 65,
+                    "remote_areas": 13
+                },
+                "majors": [
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាកូរ៉េ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាចិន",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ក្សេត្រសាស្ត្រ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "កសិឧស្សាហកម្ម",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រឿងយន្តកសិកម្ម",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងបណ្ដាញកុំព្យូទ័រ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អភិវឌ្ឍន៍កម្មវិធីកុំព្យូទ័រនិងទូរស័ព្ទដៃ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គណនេយ្យ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ធនាគារនិងហិរញ្ញវត្ថុ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រង",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលសាធារណៈ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ ហេង សំរិន ត្បូងឃ្មុំ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 740,
+                "total_quota_breakdown": {
+                    "general": 444,
+                    "female": 110,
+                    "poor": 148,
+                    "remote_areas": 38
+                },
+                "majors": [
+                    {
+                        "major_name": "ក្សេត្រសាស្ត្រ",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រសត្វ",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រព្រៃឈើនិងធនធានធម្មជាតិ",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "កុំព្យូទ័រ Programing",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "បច្ចេកវិទ្យាព័ត៌មានធុរកិច្ច",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ប្រវត្តិវិទ្យា",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ទស្សនវិជ្ជា",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាចិន",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ចកសិកម្ម",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "សហគ្រិនភាព",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលសាធារណៈ",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រង",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ធនាគារ និងហិរញ្ញវត្ថុ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "គណនេយ្យ និងហិរញ្ញវត្ថុ",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ច្បាប់",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 24,
+                            "female": 6,
+                            "poor": 8,
+                            "remote_areas": 2
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "ពុទ្ធិកសាកលវិទ្យាល័យព្រះសីហនុរាជ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 400,
+                "total_quota_breakdown": {
+                    "general": 240,
+                    "female": 56,
+                    "poor": 80,
+                    "remote_areas": 24
+                },
+                "majors": [
+                    {
+                        "major_name": "ទស្សនវិជ្ជាពុទ្ធសាសនា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលអប់រំ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "នីតិសាស្ត្រ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងទូទៅ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "បរិស្ថានវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "ពុទ្ធិកសាកលវិទ្យាល័យព្រះសីហនុរាជ ខេត្តកំពង់ឆ្នាំង",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 350,
+                "total_quota_breakdown": {
+                    "general": 210,
+                    "female": 49,
+                    "poor": 70,
+                    "remote_areas": 21
+                },
+                "majors": [
+                    {
+                        "major_name": "ទស្សនវិជ្ជាពុទ្ធសាសនា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលអប់រំ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "នីតិសាស្ត្រ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងទូទៅ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "ពុទ្ធិកសាកលវិទ្យាល័យព្រះសីហនុរាជ ខេត្តបាត់ដំបង",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 350,
+                "total_quota_breakdown": {
+                    "general": 210,
+                    "female": 49,
+                    "poor": 70,
+                    "remote_areas": 21
+                },
+                "majors": [
+                    {
+                        "major_name": "ទស្សនវិជ្ជាពុទ្ធសាសនា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលអប់រំ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "នីតិសាស្ត្រ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងទូទៅ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យក្រចេះ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 290,
+                "total_quota_breakdown": {
+                    "general": 178,
+                    "female": 40,
+                    "poor": 60,
+                    "remote_areas": 12
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រដី និងដំណាំ",
+                        "total_quota": 29,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ការពារដំណាំនិងបច្ចេកវិទ្យាប្រមូលផល",
+                        "total_quota": 29,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រសត្វនិងបសុពេទ្យ",
+                        "total_quota": 29,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រចំណីអាហារនិងអាហារូបត្ថម្ភ",
+                        "total_quota": 24,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 3,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វារីវប្បកម្ម",
+                        "total_quota": 24,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 3,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "សេនេទិចនិងបង្កាត់ពូជ",
+                        "total_quota": 19,
+                        "quota_breakdown": {
+                            "general": 11,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ជលផល",
+                        "total_quota": 19,
+                        "quota_breakdown": {
+                            "general": 11,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងអាជីវកម្ម",
+                        "total_quota": 49,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 44,
+                        "quota_breakdown": {
+                            "general": 27,
+                            "female": 6,
+                            "poor": 9,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មចំណីអាហារ",
+                        "total_quota": 24,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 3,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "ពុទ្ធិកសាកលវិទ្យាល័យសម្តេចអគ្គមហាសេនាបតីតេជោ ហ៊ុន សែន",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 315,
+                "total_quota_breakdown": {
+                    "general": 189,
+                    "female": 42,
+                    "poor": 63,
+                    "remote_areas": 21
+                },
+                "majors": [
+                    {
+                        "major_name": "ទស្សនវិជ្ជាពុទ្ធសាសនា",
+                        "total_quota": 45,
+                        "quota_breakdown": {
+                            "general": 27,
+                            "female": 6,
+                            "poor": 9,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលអប់រំ",
+                        "total_quota": 45,
+                        "quota_breakdown": {
+                            "general": 27,
+                            "female": 6,
+                            "poor": 9,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 45,
+                        "quota_breakdown": {
+                            "general": 27,
+                            "female": 6,
+                            "poor": 9,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "នីតិសាស្ត្រ",
+                        "total_quota": 45,
+                        "quota_breakdown": {
+                            "general": 27,
+                            "female": 6,
+                            "poor": 9,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 45,
+                        "quota_breakdown": {
+                            "general": 27,
+                            "female": 6,
+                            "poor": 9,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមវិទ្យា",
+                        "total_quota": 45,
+                        "quota_breakdown": {
+                            "general": 27,
+                            "female": 6,
+                            "poor": 9,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងទូទៅ",
+                        "total_quota": 45,
+                        "quota_breakdown": {
+                            "general": 27,
+                            "female": 6,
+                            "poor": 9,
+                            "remote_areas": 3
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "ពុទ្ធិកសាកលវិទ្យាល័យព្រះសីហមុនីរាជា",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 400,
+                "total_quota_breakdown": {
+                    "general": 240,
+                    "female": 56,
+                    "poor": 80,
+                    "remote_areas": 24
+                },
+                "majors": [
+                    {
+                        "major_name": "នីតិសាស្ត្រ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "ទស្សនវិជ្ជាពុទ្ធសាសនា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងទូទៅ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "បរិស្ថានវិទ្យា",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលអប់រំ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 30,
+                            "female": 7,
+                            "poor": 10,
+                            "remote_areas": 3
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានជាតិកសិកម្មកំពង់ចាម",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 125,
+                "total_quota_breakdown": {
+                    "general": 75,
+                    "female": 18,
+                    "poor": 25,
+                    "remote_areas": 7
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកសិកម្ម",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 3,
+                            "poor": 5,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រនិងវេជ្ជសាស្ត្រសត្វ",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រវិស្វកម្មកសិកម្ម",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 3,
+                            "poor": 5,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្រ្តជលផល",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រសេដ្ឋកិច្ចកសិកម្ម និងអភិវឌ្ឍន៍កសិកម្ម",
+                        "total_quota": 25,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានជាតិកសិកម្មព្រែកលៀប",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 465,
+                "total_quota_breakdown": {
+                    "general": 409,
+                    "female": 14,
+                    "poor": 28,
+                    "remote_areas": 14
+                },
+                "majors": [
+                    {
+                        "major_name": "ក្សេត្រសាស្ត្រនិងវិទ្យាសាស្ត្រដី",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 26,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ជីវបច្ចេកវិទ្យា និងសេណេទឹករុក្ខជាតិ",
+                        "total_quota": 32,
+                        "quota_breakdown": {
+                            "general": 28,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រព្រៃឈើ",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 31,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ជលផល",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 31,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្របរិស្ថាន",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 31,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "សាកវប្បកម្ម",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 31,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ផលិតកម្មនិងសុខភាពសត្វ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 26,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វេជ្ជសាស្ត្រសត្វ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 26,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អាហារូបត្ថម្ភ និងសុខភាព",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 31,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកែច្នៃអាហារ",
+                        "total_quota": 33,
+                        "quota_breakdown": {
+                            "general": 29,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "រៀបចំដែនដីនិងរដ្ឋបាលដីធ្លី",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 26,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ផ្សព្វផ្សាយកសិកម្មនិងអភិវឌ្ឍន៍ជនបទ",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 31,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ចនិងធុរកិច្ចកសិកម្ម",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 31,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ចនយោបាយកសិកម្មនិងស្បៀង",
+                        "total_quota": 35,
+                        "quota_breakdown": {
+                            "general": 31,
+                            "female": 1,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានជាតិសង្គមកិច្ច",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 206,
+                "total_quota_breakdown": {
+                    "general": 122,
+                    "female": 32,
+                    "poor": 40,
+                    "remote_areas": 12
+                },
+                "majors": [
+                    {
+                        "major_name": "កិច្ចគាំពារសង្គម",
+                        "total_quota": 14,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមវិទ្យា",
+                        "total_quota": 14,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមកិច្ចវិទ្យា",
+                        "total_quota": 44,
+                        "quota_breakdown": {
+                            "general": 25,
+                            "female": 8,
+                            "poor": 9,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "គោលនយោបាយសាធារណៈ",
+                        "total_quota": 14,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គោលនយោបាយសង្គម",
+                        "total_quota": 14,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលសាធារណៈ",
+                        "total_quota": 49,
+                        "quota_breakdown": {
+                            "general": 27,
+                            "female": 8,
+                            "poor": 11,
+                            "remote_areas": 3
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងសាធារណៈ",
+                        "total_quota": 19,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 2,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 24,
+                        "quota_breakdown": {
+                            "general": 14,
+                            "female": 4,
+                            "poor": 5,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មឧបករណ៍សិប្បនិម្មិតនិងរណប",
+                        "total_quota": 14,
+                        "quota_breakdown": {
+                            "general": 8,
+                            "female": 2,
+                            "poor": 3,
+                            "remote_areas": 1
+                        },
+                        "specific_requirements": [
+                            "វិញ្ញាសាសរសេរ ភាសាអង់គ្លេស ៩០នាទី"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានបច្ចេកវិទ្យាកំពង់ឈើទាល",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 90,
+                "total_quota_breakdown": {
+                    "general": 42,
+                    "female": 9,
+                    "poor": 15,
+                    "remote_areas": 24
+                },
+                "majors": [
+                    {
+                        "major_name": "អនុភាពអគ្គិសនី",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 14,
+                            "female": 3,
+                            "poor": 5,
+                            "remote_areas": 8
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រសត្វ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 14,
+                            "female": 3,
+                            "poor": 5,
+                            "remote_areas": 8
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រដំណាំ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 14,
+                            "female": 3,
+                            "poor": 5,
+                            "remote_areas": 8
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានបច្ចេកវិទ្យាកំពង់ស្ពឺ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុចន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 150,
+                "total_quota_breakdown": {
+                    "general": 90,
+                    "female": 20,
+                    "poor": 30,
+                    "remote_areas": 10
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រដំណាំ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រសត្វ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "បច្ចេកវិទ្យាអាហារ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "បច្ចេកវិទ្យាកុំព្យូទ័រ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "បច្ចេកវិទ្យាអគ្គិសនី",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 4,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យវេស្ទើន",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 10,
+                "total_quota_breakdown": {
+                    "general": 10,
+                    "female": 0,
+                    "poor": 0,
+                    "remote_areas": 0
+                },
+                "majors": [
+                    {
+                        "major_name": "វិស្វកម្មសំណង់ស៊ីវិល",
+                        "total_quota": 10,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យមេគង្គកម្ពុជា",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 15,
+                "total_quota_breakdown": {
+                    "general": 9,
+                    "female": 2,
+                    "poor": 3,
+                    "remote_areas": 1
+                },
+                "majors": [
+                    {
+                        "major_name": "នីតិឯកជន",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 3,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ អាស៊ី អឺរ៉ុប",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 15,
+                "total_quota_breakdown": {
+                    "general": 9,
+                    "female": 2,
+                    "poor": 3,
+                    "remote_areas": 1
+                },
+                "majors": [
+                    {
+                        "major_name": "ការគ្រប់គ្រងសណ្ឋាគារនិងទេសចរណ៍",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 3,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យធនធានមនុស្ស",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 15,
+                "total_quota_breakdown": {
+                    "general": 15,
+                    "female": 0,
+                    "poor": 0,
+                    "remote_areas": 0
+                },
+                "majors": [
+                    {
+                        "major_name": "សណ្ឋាគារនិងទេសចរណ៍",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យគ្រប់គ្រង និងសេដ្ឋកិច្ច (បាត់ដំបង)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 100,
+                "total_quota_breakdown": {
+                    "general": 60,
+                    "female": 19,
+                    "poor": 14,
+                    "remote_areas": 7
+                },
+                "majors": [
+                    {
+                        "major_name": "ភាសាអង់គ្លេសសម្រាប់អប់រំ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 5,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេសសម្រាប់ទំនាក់ទំនង",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 4,
+                            "poor": 4,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 5,
+                            "poor": 3,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រសេដ្ឋកិច្ច",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 20,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ក្សេត្រសាស្ត្រ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 5,
+                            "poor": 3,
+                            "remote_areas": 2
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យគ្រប់គ្រង និងសេដ្ឋកិច្ច (ក្រចេះ)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល"
+                ],
+                "total_scholarships": 20,
+                "total_quota_breakdown": {
+                    "general": 10,
+                    "female": 5,
+                    "poor": 4,
+                    "remote_areas": 1
+                },
+                "majors": [
+                    {
+                        "major_name": "ព័ត៌មានវិទ្យា",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 10,
+                            "female": 5,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យគ្រប់គ្រង និងសេដ្ឋកិច្ច (បន្ទាយមានជ័យ)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 15,
+                "total_quota_breakdown": {
+                    "general": 15,
+                    "female": 0,
+                    "poor": 0,
+                    "remote_areas": 0
+                },
+                "majors": [
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យគ្រប់គ្រង និងសេដ្ឋកិច្ច (កោះកុង)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 15,
+                "total_quota_breakdown": {
+                    "general": 5,
+                    "female": 10,
+                    "poor": 0,
+                    "remote_areas": 0
+                },
+                "majors": [
+                    {
+                        "major_name": "ច្បាប់",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 10,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យកម្ពុជា",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 10,
+                "total_quota_breakdown": {
+                    "general": 10,
+                    "female": 0,
+                    "poor": 0,
+                    "remote_areas": 0
+                },
+                "majors": [
+                    {
+                        "major_name": "ព័ត៌មានវិទ្យា",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "សិល្បៈនិងការសិក្សាអំពីព័ត៌មាន",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ ឯកទេស នៃកម្ពុជា (ភ្នំពេញ)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 10,
+                "total_quota_breakdown": {
+                    "general": 4,
+                    "female": 2,
+                    "poor": 2,
+                    "remote_areas": 2
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ ឯកទេស នៃកម្ពុជា (កំពង់ចាម)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 10,
+                "total_quota_breakdown": {
+                    "general": 4,
+                    "female": 2,
+                    "poor": 2,
+                    "remote_areas": 2
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ ឯកទេស នៃកម្ពុជា (កំពង់ធំ)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 10,
+                "total_quota_breakdown": {
+                    "general": 4,
+                    "female": 2,
+                    "poor": 2,
+                    "remote_areas": 2
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ ឯកទេស នៃកម្ពុជា (សៀមរាប)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 10,
+                "total_quota_breakdown": {
+                    "general": 4,
+                    "female": 2,
+                    "poor": 2,
+                    "remote_areas": 2
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ ឯកទេស នៃកម្ពុជា (បន្ទាយមានជ័យ)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 10,
+                "total_quota_breakdown": {
+                    "general": 4,
+                    "female": 2,
+                    "poor": 2,
+                    "remote_areas": 2
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ ឯកទេស នៃកម្ពុជា (បាត់ដំបង)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 10,
+                "total_quota_breakdown": {
+                    "general": 4,
+                    "female": 2,
+                    "poor": 2,
+                    "remote_areas": 2
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ ឯកទេស នៃកម្ពុជា (កំពត)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 10,
+                "total_quota_breakdown": {
+                    "general": 4,
+                    "female": 2,
+                    "poor": 2,
+                    "remote_areas": 2
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 2,
+                            "female": 1,
+                            "poor": 1,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យបញ្ញាសាស្ត្រកម្ពុជា",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល"
+                ],
+                "total_scholarships": 15,
+                "total_quota_breakdown": {
+                    "general": 15,
+                    "female": 0,
+                    "poor": 0,
+                    "remote_areas": 0
+                },
+                "majors": [
+                    {
+                        "major_name": "គ្រប់គ្រងពាណិជ្ជកម្ម",
+                        "total_quota": 7,
+                        "quota_breakdown": {
+                            "general": 7,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "វីធីសាស្ត្របង្រៀនភាសាអង់គ្លេស",
+                        "total_quota": 8,
+                        "quota_breakdown": {
+                            "general": 8,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ ឡាយហ្វ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល"
+                ],
+                "total_scholarships": 60,
+                "total_quota_breakdown": {
+                    "general": 36,
+                    "female": 10,
+                    "poor": 10,
+                    "remote_areas": 4
+                },
+                "majors": [
+                    {
+                        "major_name": "សាសនវិជ្ជា",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 5,
+                            "poor": 5,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រកូរ៉េ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 18,
+                            "female": 5,
+                            "poor": 5,
+                            "remote_areas": 2
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យបញ្ញាជាតិ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 30,
+                "total_quota_breakdown": {
+                    "general": 30,
+                    "female": 0,
+                    "poor": 0,
+                    "remote_areas": 0
+                },
+                "majors": [
+                    {
+                        "major_name": "គណនេយ្យ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ហិរញ្ញវត្ថុ និងធនាគារ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យសម្តេចព្រះមហាសង្ឃរាជ បូរ គ្រី",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល"
+                ],
+                "total_scholarships": 480,
+                "total_quota_breakdown": {
+                    "general": 480,
+                    "female": 0,
+                    "poor": 0,
+                    "remote_areas": 0
+                },
+                "majors": [
+                    {
+                        "major_name": "ប្រវត្តិសាស្ត្រខ្មែរ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រខ្មែរ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "នីតិរដ្ឋបាលសាធារណៈ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "នីតិឯកជន",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រនយោបាយ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ទស្សនវិជ្ជាពុទ្ធសាសនា",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមវិទ្យា",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ស្ថាបត្យកម្ម",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មសំណង់អគារ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មអគ្គីសនី",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មអភិវឌ្ឍន៍ជនបទ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "អភិវឌ្ឍសហគមន៍",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងទេសចរណ៍និងបដិសណ្ឋារកិច្ច",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេស",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាចិន",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាបារាំង",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "កសិកម្ម",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "បរិស្ថានវិទ្យា",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ភូមិវិទ្យានិងរៀបចំដែនដី",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "គណិតវិទ្យា",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "រូបវិទ្យា",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ជីវវិទ្យា",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "គីមីវិទ្យា",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ច",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ចកសិកម្ម និងអភិវឌ្ឍជនបទ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "គណនេយ្យ និងហិរញ្ញវត្ថុ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ធនាគារ និងហិរញ្ញវត្ថុ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ពន្ធដារ សវនកម្ម",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងធុរកិច្ច",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "សហគ្រិនភាព និងភាពជាអ្នកដឹកនាំ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ពាណិជ្ជកម្មអន្តរជាតិ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យសេដ្ឋកិច្ច និងហិរញ្ញវត្ថុ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល"
+                ],
+                "total_scholarships": 15,
+                "total_quota_breakdown": {
+                    "general": 9,
+                    "female": 2,
+                    "poor": 3,
+                    "remote_areas": 1
+                },
+                "majors": [
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រសេដ្ឋកិច្ច",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 3,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យ អាយអាយស៊ី នៃបច្ចេកវិទ្យា",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល"
+                ],
+                "total_scholarships": 45,
+                "total_quota_breakdown": {
+                    "general": 27,
+                    "female": 9,
+                    "poor": 6,
+                    "remote_areas": 3
+                },
+                "majors": [
+                    {
+                        "major_name": "គ្រប់គ្រងទេសចរណ៍",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 3,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 3,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ច្បាប់",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 3,
+                            "poor": 2,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យពាណិជ្ជសាស្ត្រ អេស៊ីលីដា",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល"
+                ],
+                "total_scholarships": 15,
+                "total_quota_breakdown": {
+                    "general": 15,
+                    "female": 0,
+                    "poor": 0,
+                    "remote_areas": 0
+                },
+                "majors": [
+                    {
+                        "major_name": "ភាសាអង់គ្លេសសម្រាប់ទំនាក់ទំនងធុរកិច្ច",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ការបង្រៀនភាសាអង់គ្លេស",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "ភាសាអង់គ្លេសសម្រាប់បំណិនបកប្រែ",
+                        "total_quota": 5,
+                        "quota_breakdown": {
+                            "general": 5,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាកលវិទ្យាល័យឌីជីថលកម្ពុជា",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 1000,
+                "total_quota_breakdown": {
+                    "general": 0,
+                    "female": 300,
+                    "poor": 300,
+                    "remote_areas": 400
+                },
+                "majors": [
+                    {
+                        "major_name": "ក្រាហ្វិកឌីហ្សាញ",
+                        "total_quota": 100,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 30,
+                            "poor": 30,
+                            "remote_areas": 40
+                        }
+                    },
+                    {
+                        "major_name": "ទីផ្សារឌីជីថល",
+                        "total_quota": 100,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 30,
+                            "poor": 30,
+                            "remote_areas": 40
+                        }
+                    },
+                    {
+                        "major_name": "ប្រព័ន្ធផ្សព្វផ្សាយសង្គម",
+                        "total_quota": 100,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 30,
+                            "poor": 30,
+                            "remote_areas": 40
+                        }
+                    },
+                    {
+                        "major_name": "ក្សេត្រសាស្ត្រ និងសាកវប្បកម្ម",
+                        "total_quota": 60,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 18,
+                            "poor": 18,
+                            "remote_areas": 24
+                        }
+                    },
+                    {
+                        "major_name": "រដ្ឋបាលសាធារណៈ",
+                        "total_quota": 60,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 18,
+                            "poor": 18,
+                            "remote_areas": 24
+                        }
+                    },
+                    {
+                        "major_name": "សេដ្ឋកិច្ចកសិកម្ម",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 12,
+                            "poor": 12,
+                            "remote_areas": 16
+                        }
+                    },
+                    {
+                        "major_name": "អភិវឌ្ឍន៍ជនបទ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 15,
+                            "poor": 15,
+                            "remote_areas": 20
+                        }
+                    },
+                    {
+                        "major_name": "នីតិឯកជន",
+                        "total_quota": 40,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 12,
+                            "poor": 12,
+                            "remote_areas": 16
+                        }
+                    },
+                    {
+                        "major_name": "នីតិពាណិជ្ជកម្មអន្តរជាតិ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 6,
+                            "poor": 6,
+                            "remote_areas": 8
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រនយោបាយ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 9,
+                            "poor": 9,
+                            "remote_areas": 12
+                        }
+                    },
+                    {
+                        "major_name": "រចនាបទផ្ទៃក្នុង",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 6,
+                            "poor": 6,
+                            "remote_areas": 8
+                        }
+                    },
+                    {
+                        "major_name": "អង់គ្លេសសម្រាប់ទំនាក់ទំនងធុរកិច្ច",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 15,
+                            "poor": 15,
+                            "remote_areas": 20
+                        }
+                    },
+                    {
+                        "major_name": "អង់គ្លេសសម្រាប់ការបកប្រែ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 15,
+                            "poor": 15,
+                            "remote_areas": 20
+                        }
+                    },
+                    {
+                        "major_name": "នីតិសាធារណៈ",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 15,
+                            "poor": 15,
+                            "remote_areas": 20
+                        }
+                    },
+                    {
+                        "major_name": "វិស្វកម្មសំណង់ស៊ីវិល",
+                        "total_quota": 50,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 15,
+                            "poor": 15,
+                            "remote_areas": 20
+                        }
+                    },
+                    {
+                        "major_name": "ស្ថាបត្យកម្ម",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 9,
+                            "poor": 9,
+                            "remote_areas": 12
+                        }
+                    },
+                    {
+                        "major_name": "បង្រៀនភាសាអង់គ្លេស",
+                        "total_quota": 150,
+                        "quota_breakdown": {
+                            "general": 0,
+                            "female": 45,
+                            "poor": 45,
+                            "remote_areas": 60
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "សាខាវិទ្យាស្ថានក្រុងអង្គរ (ខេត្តព្រៃវែង)",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល"
+                ],
+                "total_scholarships": 19,
+                "total_quota_breakdown": {
+                    "general": 11,
+                    "female": 4,
+                    "poor": 3,
+                    "remote_areas": 1
+                },
+                "majors": [
+                    {
+                        "major_name": "គ្រប់គ្រង",
+                        "total_quota": 19,
+                        "quota_breakdown": {
+                            "general": 11,
+                            "female": 4,
+                            "poor": 3,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានសន្តប៉ូល",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល"
+                ],
+                "total_scholarships": 75,
+                "total_quota_breakdown": {
+                    "general": 45,
+                    "female": 10,
+                    "poor": 10,
+                    "remote_areas": 10
+                },
+                "majors": [
+                    {
+                        "major_name": "គ្រប់គ្រងទេសចរណ៍",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ព័ត៌មានវិទ្យា",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "ក្សេត្រសាស្ត្រ",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "សង្គមកិច្ច",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "អក្សរសាស្ត្រអង់គ្លេស",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 9,
+                            "female": 2,
+                            "poor": 2,
+                            "remote_areas": 2
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានកសិកម្មឧកញ៉ា ម៉ុង ឫទ្ធី",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 60,
+                "total_quota_breakdown": {
+                    "general": 34,
+                    "female": 10,
+                    "poor": 12,
+                    "remote_areas": 4
+                },
+                "majors": [
+                    {
+                        "major_name": "វេជ្ជសាស្ត្រសត្វ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 17,
+                            "female": 5,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រសត្វ",
+                        "total_quota": 30,
+                        "quota_breakdown": {
+                            "general": 17,
+                            "female": 5,
+                            "poor": 6,
+                            "remote_areas": 2
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានអាហ្កា",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E"
+                ],
+                "total_scholarships": 100,
+                "total_quota_breakdown": {
+                    "general": 60,
+                    "female": 15,
+                    "poor": 20,
+                    "remote_areas": 5
+                },
+                "majors": [
+                    {
+                        "major_name": "គណនេយ្យ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "ទីផ្សារ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "គ្រប់គ្រងពាណិជ្ជកម្ម",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "វិទ្យាសាស្ត្រកុំព្យូទ័រ",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    },
+                    {
+                        "major_name": "អប់រំភាសាអង់គ្លេស",
+                        "total_quota": 20,
+                        "quota_breakdown": {
+                            "general": 12,
+                            "female": 3,
+                            "poor": 4,
+                            "remote_areas": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "school": "វិទ្យាស្ថានធុរកិច្ច និងបច្ចេកវិទ្យា ក្រុងព្រះសីហនុ",
+        "scholarships": [
+            {
+                "scholarship_name": "អាហារូបករណ៍ ១០០% ក្រសួងអប់រំ យុវជន និងកីឡា",
+                "academic_year": "២០២៦-២០២៧",
+                "category": "Government Scholarship",
+                "coverage_percentage": 100,
+                "eligibility_criteria": [
+                    "និទ្ទេសរួម A ដល់ E",
+                    "មិនតម្រូវឱ្យប្រឡងចូល (ជ្រើសរើសផ្អែកលើពិន្ទុមុខវិជ្ជាគោល)"
+                ],
+                "total_scholarships": 30,
+                "total_quota_breakdown": {
+                    "general": 30,
+                    "female": 0,
+                    "poor": 0,
+                    "remote_areas": 0
+                },
+                "majors": [
+                    {
+                        "major_name": "គ្រប់គ្រងធុរកិច្ច",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    },
+                    {
+                        "major_name": "បច្ចេកវិទ្យាព័ត៌មាន",
+                        "total_quota": 15,
+                        "quota_breakdown": {
+                            "general": 15,
+                            "female": 0,
+                            "poor": 0,
+                            "remote_areas": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

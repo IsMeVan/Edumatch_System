@@ -1,0 +1,64 @@
+# ============================
+# Environment & Secrets (CRITICAL!)
+# ============================
+.env
+backend/.env
+*.env
+!.env.example
+*.local
+
+# ============================
+# Python (Backend)
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+venv/
+backend/venv/
+backend/__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# ============================
+# Node / React (Frontend)
+# ============================
+node_modules/
+dist/
+dist-ssr/
+frontend/node_modules/
+frontend/dist/
+
+# ============================
+# Logs
+# ============================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ============================
+# AI Models (large files)
+# ============================
+backend/my_trained_model/*.model
+
+# ============================
+# Editor / IDE
+# ============================
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ============================
+# OS Files
+# ============================
+.DS_Store
+Thumbs.db
+desktop.ini
